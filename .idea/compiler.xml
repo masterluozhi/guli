@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="common_utils" />
+        <module name="servic_based" />
+        <module name="service_cms" />
+        <module name="service_comment" />
+        <module name="service_edu" />
+        <module name="service_msm" />
+        <module name="service_order" />
+        <module name="service_oss" />
+        <module name="service_static" />
+        <module name="service_ucenter" />
+        <module name="service_vod" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api_gateway" target="1.5" />
+      <module name="canal_clentedu" target="1.8" />
+      <module name="common" target="8" />
+      <module name="common_utils" target="8" />
+      <module name="guliweb" target="1.8" />
+      <module name="infrastructure" target="1.8" />
+      <module name="servic_base" target="8" />
+      <module name="servic_based" target="8" />
+      <module name="service" target="1.8" />
+      <module name="service_acl" target="8" />
+      <module name="service_base" target="8" />
+      <module name="service_cms" target="8" />
+      <module name="service_comment" target="8" />
+      <module name="service_edu" target="8" />
+      <module name="service_msm" target="8" />
+      <module name="service_order" target="8" />
+      <module name="service_oss" target="8" />
+      <module name="service_static" target="8" />
+      <module name="service_ucenter" target="8" />
+      <module name="service_vod" target="8" />
+      <module name="servicemom" target="8" />
+      <module name="springsecurity" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="common" options="-parameters" />
+      <module name="common_utils" options="-parameters" />
+      <module name="guliweb" options="-parameters" />
+      <module name="servic_base" options="-parameters" />
+      <module name="servic_based" options="-parameters" />
+      <module name="service" options="-parameters" />
+      <module name="service_base" options="-parameters" />
+      <module name="service_edu" options="-parameters" />
+      <module name="service_oss" options="-parameters" />
+      <module name="service_vod" options="-parameters" />
+      <module name="servicemom" options="-parameters" />
+    </option>
+  </component>
+</project>
