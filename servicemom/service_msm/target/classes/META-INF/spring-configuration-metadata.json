@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "tengxun.sms",
+      "type": "com.kun.msmservice.utils.ConstantUtils",
+      "sourceType": "com.kun.msmservice.utils.ConstantUtils"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
