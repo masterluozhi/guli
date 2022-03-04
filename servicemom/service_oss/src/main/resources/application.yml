@@ -9,10 +9,3 @@ spring:
     nacos:
       discovery:
         server-addr: 127.0.0.1:8848
-aliyun:
-  oss:
-    file:
-      endpoint: oss-cn-beijing.aliyuncs.com
-      keyid: LTAI5t9TjA8xcrfu5din929m
-      keysecret: bQRQYDLAgdS1PSGb7oc6VaM5OXZ0g4
-      bucketname: lzkguli-file
