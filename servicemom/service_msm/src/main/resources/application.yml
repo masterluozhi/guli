@@ -22,15 +22,6 @@ spring:
     nacos:
       discovery:
         server-addr: 127.0.0.1:8848
-tengxun:
-  sms:
-    secretId: KID4ycz5wXrte8LHwLSIr9AuMXS6UaQzHI2
-    secretKey: UhdHgofEWXHmCLDn6B0Yprc7LJ0QZR3N
-    #短信应用 ID
-    appid: 1400568206
-    #短信签名内容
-    sign: 402640
-    #短信模板ID
-    templateID: 1108266
+
 #AKID4ycz5wXrte8LHwLSIr9AuMXS6UaQzHI2
 #UhdHgofEWXHmCLDn6B0Yprc7LJ0QZR3N
